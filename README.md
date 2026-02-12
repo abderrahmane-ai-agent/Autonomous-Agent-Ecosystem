@@ -5,7 +5,9 @@ A Three-Tiered Framework for Enterprise-Scale Automation
 Nexus-21 is a comprehensive suite of 21 specialized AI agents engineered to bridge the gap between raw LLM capability and real-world business utility. Built using a modular "Architect" framework, this ecosystem handles everything from high-velocity revenue generation to complex multi-agent intelligence swarms.
 ## 🌍 World I: Revenue Ingestion & Growth
 Focus: Maximizing ROI through high-conversion content and lead acquisition.
+
 **The Ghostwriter**: Performs "Soul Extraction" on long-form content to generate high-impact LinkedIn social sequences.
+
 **The Lead Sniper**: Contextualizes LinkedIn prospect data to draft non-templated, high-conversion outreach.
 **The News Jacker**: Real-time industry monitoring for automated "Reaction Content" deployment.
 **The YouTube Alchemist**: Transmutation of video assets into multi-channel written threads and summaries.
